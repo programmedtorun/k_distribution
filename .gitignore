@@ -16,4 +16,4 @@ main
 # vendor/
 
 # Mac
-.DS_Store
+*.DS_Store
